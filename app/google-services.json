@@ -1,0 +1,187 @@
+{
+  "project_info": {
+    "project_number": "681445412727",
+    "firebase_url": "https://ecogarb-171907.firebaseio.com",
+    "project_id": "ecogarb-171907",
+    "storage_bucket": "ecogarb-171907.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681445412727:android:362ec628deb90fb0",
+        "android_client_info": {
+          "package_name": "com.example.galileo.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681445412727-7m07im138k39b69edfd5dp3flqu92eg5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.galileo.firebasetest",
+            "certificate_hash": "ea61f06d5b72c2ad2af8a9300603a830c6c78caa"
+          }
+        },
+        {
+          "client_id": "681445412727-umfmscjoj0icukp8pqc28up9dah2jrpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAObbBnrbA7E7WzUiaEE-UC1cYGBP8A8hY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681445412727-umfmscjoj0icukp8pqc28up9dah2jrpj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681445412727:android:7c0a438ce15cc918",
+        "android_client_info": {
+          "package_name": "com.example.currentplacedetailsonmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681445412727-31sdka215ui7j7arr84jok7ag22j0go2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.currentplacedetailsonmap",
+            "certificate_hash": "ea61f06d5b72c2ad2af8a9300603a830c6c78caa"
+          }
+        },
+        {
+          "client_id": "681445412727-umfmscjoj0icukp8pqc28up9dah2jrpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAObbBnrbA7E7WzUiaEE-UC1cYGBP8A8hY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681445412727-umfmscjoj0icukp8pqc28up9dah2jrpj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681445412727:android:d573061a22c8223d",
+        "android_client_info": {
+          "package_name": "com.example.ecoGarbUser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681445412727-5fsl00kqpqmd05ksurnui0cp6vsohu70.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecoGarbUser",
+            "certificate_hash": "ea61f06d5b72c2ad2af8a9300603a830c6c78caa"
+          }
+        },
+        {
+          "client_id": "681445412727-umfmscjoj0icukp8pqc28up9dah2jrpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAObbBnrbA7E7WzUiaEE-UC1cYGBP8A8hY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681445412727-umfmscjoj0icukp8pqc28up9dah2jrpj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681445412727:android:596523000e5f8368",
+        "android_client_info": {
+          "package_name": "com.example.ecoGarbDriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681445412727-aqp5pk02d2nie8aa3rn0d3gqf7sh0str.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecoGarbDriver",
+            "certificate_hash": "ea61f06d5b72c2ad2af8a9300603a830c6c78caa"
+          }
+        },
+        {
+          "client_id": "681445412727-umfmscjoj0icukp8pqc28up9dah2jrpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAObbBnrbA7E7WzUiaEE-UC1cYGBP8A8hY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681445412727-umfmscjoj0icukp8pqc28up9dah2jrpj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
